@@ -58,3 +58,5 @@ based on weighted RGB.
     - run_part4.py # figures + trade-offs
     - run_part5.py # statistics
 
+This repository is part of the **Retinal Vessel Segmentation** project:  
+[https://YOURNAME.github.io/retinal-vessel-segmentation/](https://github.com/pwkwiek/retinal-vessel-segmentation)
