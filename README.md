@@ -1,4 +1,4 @@
-# retinal-vessel-segmentation
+# retinal-luminance
 *Hue Knew Blood Vessels Look Better in Green?*
 
 Unsupervised retinal blood vessel segmentation with classical image processing.  
